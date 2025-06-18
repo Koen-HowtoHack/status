@@ -3,8 +3,10 @@ owner: Koen-HowtoHack # Your GitHub organization or username, where this reposit
 repo: status # The name of this repository
 
 sites:
+  - name: How to Hack
+    url: https://www.howtohack.nl/
   - name: Codeblocks CDN
-    url: https://cdn.codeblocks.nl
+    url: https://cdn.codeblocks.nl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
