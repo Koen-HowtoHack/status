@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: How to Hack
     url: https://www.howtohack.nl/
+  - name: Statuspagina How to Hack & Codeblocks
+    url: https://status.howtohack.nl/
   - name: Codeblocks CDN
     url: https://cdn.codeblocks.nl/
 
