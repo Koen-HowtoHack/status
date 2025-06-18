@@ -1,7 +1,25 @@
 [
   {
+    "name": "How to Hack",
+    "url": "https://www.howtohack.nl/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.howtohack.nl.ico",
+    "slug": "how-to-hack",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Codeblocks CDN",
-    "url": "https://cdn.codeblocks.nl",
+    "url": "https://cdn.codeblocks.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.codeblocks.nl.ico",
     "slug": "codeblocks-cdn",
     "status": "up",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 126,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   }
 ]
