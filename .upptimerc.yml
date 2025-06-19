@@ -35,7 +35,7 @@ i18n:
       activeIncidents: Lopende incidenten
       allSystemsOperational: Alle system zijn operationeel!
       incidentReport: "Incident #$NUMBER melding →"
-      activeIncidentSummary: Gestart op $DATE met $POSTS berichten.
+      activeIncidentSummary: Gestart op $DATE met $POSTS bericht(en).
       incidentTitle: Incident $NUMBER details
       incidentDetails: Incident details
       incidentFixed: Opgelost
@@ -81,16 +81,16 @@ i18n:
       scheduledMaintenance: Scheduled Maintenance
       scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
       scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-      startedAt: Started at
-      startsAt: Starts at
-      duration: Duration
-      durationMin: $DURATION minutes
-      incidentCompleted: Completed
-      incidentScheduled: Scheduled
-      duration24H: 24h
-      duration7D: 7d
-      duration30D: 30d
-      duration1Y: 1y
+      startedAt: Begonnen op
+      startsAt: Begint op
+      duration: Duur
+      durationMin: $DURATION minuten
+      incidentCompleted: Afgerond
+      incidentScheduled: Gepland
+      duration24H: 24 uur
+      duration7D: 7 dagen
+      duration30D: 30 dagen
+      duration1Y: 1 jaar
       durationAll: all
       locale: nl-NL
 # Upptime also supports notifications, assigning issues, and more
