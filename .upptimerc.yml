@@ -33,7 +33,7 @@ status-website:
 
 i18n: 
       activeIncidents: Lopende incidenten
-      allSystemsOperational: Alle system zijn operationeel!
+      allSystemsOperational: Alle systemen zijn operationeel!
       incidentReport: "Incident #$NUMBER melding →"
       activeIncidentSummary: Gestart op $DATE met $POSTS bericht(en).
       incidentTitle: Incident $NUMBER details
@@ -41,21 +41,21 @@ i18n:
       incidentFixed: Opgelost
       incidentOngoing: Lopend
       incidentOpenedAt: Geopend op
-      incidentClosedAt: Closed at
+      incidentClosedAt: Gesloten op
       incidentViewOnGitHub: Bekijk en abboneer via Github
       incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
       incidentBack: ← Terug naar alle incidenten
-      pastIncidents: Past Incidents
-      pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+      pastIncidents: Oude incidenten
+      pastIncidentsResolved: Opgelost in $MINUTES minuten met $POSTS bericht(en).
       liveStatus: Live status
       overallUptime: "Overall uptime: $UPTIME"
       overallUptimeTitle: Overall uptime
       averageResponseTime: "Average response time: $TIMEms"
-      averageResponseTimeTitle: Average response
+      averageResponseTimeTitle: Gemiddelde reactie tijd
       sevelDayResponseTime: 7-day response time
-      responseTimeMs: Response time (ms)
-      up: Up
-      down: Down
+      responseTimeMs: Reactie tijd (ms)
+      up: Online (up)
+      down: Offline (down)
       degraded: Degraded
       ms: ms
       loading: Laden
@@ -80,7 +80,7 @@ i18n:
       pastScheduledMaintenance: Past Scheduled Maintenance
       scheduledMaintenance: Scheduled Maintenance
       scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-      scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+      scheduledMaintenanceSummaryStarts: Begint op $DATE en duurt $DURATION minuten
       startedAt: Begonnen op
       startsAt: Begint op
       duration: Duur
