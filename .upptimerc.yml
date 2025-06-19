@@ -7,6 +7,8 @@ sites:
     url: https://www.howtohack.nl/
   - name: Statuspagina How to Hack & Codeblocks
     url: https://status.howtohack.nl/
+  - name: Codeblocks
+    url: https://www.codeblocks.nl/
   - name: Codeblocks CDN
     url: https://cdn.codeblocks.nl/
   - name: Codeblocks Docs
