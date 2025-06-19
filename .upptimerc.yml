@@ -36,13 +36,13 @@ i18n:
       allSystemsOperational: Alle system zijn operationeel!
       incidentReport: "Incident #$NUMBER melding →"
       activeIncidentSummary: Gestart op $DATE met $POSTS berichten.
-      incidentTitle: Incident $NUMBER Details
-      incidentDetails: Incident Details
+      incidentTitle: Incident $NUMBER details
+      incidentDetails: Incident details
       incidentFixed: Opgelost
-      incidentOngoing: Ongoing
-      incidentOpenedAt: Opened at
+      incidentOngoing: Lopend
+      incidentOpenedAt: Geopend op
       incidentClosedAt: Closed at
-      incidentViewOnGitHub: View and Subscribe on GitHub
+      incidentViewOnGitHub: Bekijk en abboneer via Github
       incidentCommentSummary: Posted at $DATE by $AUTHOR
       incidentBack: ← Back to all incidents
       pastIncidents: Past Incidents
