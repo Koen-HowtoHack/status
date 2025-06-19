@@ -9,6 +9,8 @@ sites:
     url: https://status.howtohack.nl/
   - name: Codeblocks CDN
     url: https://cdn.codeblocks.nl/
+  - name: Codeblocks Docs
+    url: https://docs.codeblocks.nl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
