@@ -43,11 +43,11 @@ i18n:
       incidentOpenedAt: Geopend op
       incidentClosedAt: Closed at
       incidentViewOnGitHub: Bekijk en abboneer via Github
-      incidentCommentSummary: Posted at $DATE by $AUTHOR
-      incidentBack: ← Back to all incidents
+      incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
+      incidentBack: ← Terug naar alle incidenten
       pastIncidents: Past Incidents
       pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-      liveStatus: Live Status
+      liveStatus: Live status
       overallUptime: "Overall uptime: $UPTIME"
       overallUptimeTitle: Overall uptime
       averageResponseTime: "Average response time: $TIMEms"
@@ -58,7 +58,7 @@ i18n:
       down: Down
       degraded: Degraded
       ms: ms
-      loading: Loading
+      loading: Laden
       navGitHub: GitHub
       footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
       rateLimitExceededTitle: Rate limit exceeded
