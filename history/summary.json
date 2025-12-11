@@ -4,9 +4,9 @@
     "url": "https://www.howtohack.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtohack.nl.ico",
     "slug": "how-to-hack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 340,
     "timeMonth": 371,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "Statuspagina How to Hack & Codeblocks",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 79,
+      "2025-12-11": 852,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
