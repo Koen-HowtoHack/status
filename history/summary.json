@@ -4,18 +4,19 @@
     "url": "https://www.howtohack.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtohack.nl.ico",
     "slug": "how-to-hack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 422,
+    "timeDay": 380,
     "timeWeek": 382,
     "timeMonth": 380,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2025-12-12": 1,
       "2025-12-11": 27
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://status.howtohack.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/status.howtohack.nl.ico",
     "slug": "statuspagina-how-to-hack-and-codeblocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 130,
     "timeMonth": 201,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 0
+    }
   },
   {
     "name": "Codeblocks",
@@ -90,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 79,
+      "2025-12-12": 1288,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
