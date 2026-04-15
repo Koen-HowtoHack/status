@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.howtohack.nl.ico",
     "slug": "how-to-hack",
     "status": "down",
-    "uptime": "59.29%",
+    "uptime": "59.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.29%",
+    "uptimeYear": "59.23%",
     "time": 293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-04-15": 125,
+      "2026-04-15": 537,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.howtohack.nl.ico",
     "slug": "statuspagina-how-to-hack-and-codeblocks",
     "status": "down",
-    "uptime": "66.46%",
+    "uptime": "66.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.46%",
+    "uptimeYear": "66.40%",
     "time": 177,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2026-04-15": 125,
+      "2026-04-15": 537,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -269,9 +269,9 @@
     "url": "https://www.codeblocks.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.codeblocks.nl.ico",
     "slug": "codeblocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -280,16 +280,18 @@
     "timeWeek": 254,
     "timeMonth": 261,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   },
   {
     "name": "Codeblocks CDN",
     "url": "https://cdn.codeblocks.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.codeblocks.nl.ico",
     "slug": "codeblocks-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -298,7 +300,9 @@
     "timeWeek": 164,
     "timeMonth": 146,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   },
   {
     "name": "Codeblocks Docs",
@@ -317,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 125,
+      "2026-04-15": 538,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
